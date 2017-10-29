@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="reserva">Reserva</string>
+    <string name="livro">Livro</string>
+    <string name="participante">Participante</string>
+    <string name="ano">Ano</string>
+    <string name="editora">Editora</string>
+    <string name="salvar">Salvar</string>
+    <string name="t_tulo">Título</string>
+    <string name="voltar">Voltar</string>
+    <string name="adicionarlivro">AdicionarLivro</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="voltarlivro">Voltar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
